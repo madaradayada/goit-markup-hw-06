@@ -636,6 +636,7 @@ body {
   margin-left: 23px;
   background: #2f303a;
   padding: 15px 0 15px 16px;
+  color: var(--theme-main);
 }
 
 .online-btn {
